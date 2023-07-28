@@ -1,2 +1,3 @@
-let number = prompt('Enter number', 'number goes here')
-console.log(number)
+let num = parseFloat('9, 8')
+let numInt = 10
+console.log(num)
